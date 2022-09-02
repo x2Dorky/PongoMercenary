@@ -1,3 +1,0 @@
-WhitelistedID = {
-"7D11D2E9-BD87-4A66-BE9B-22C8A832914A", 
-}
